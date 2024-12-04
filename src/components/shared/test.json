@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_shared_sliders",
+  "collectionName": "components_shared_tests",
   "info": {
-    "displayName": "Slider",
+    "displayName": "Test",
     "icon": "address-book",
     "description": ""
   },
